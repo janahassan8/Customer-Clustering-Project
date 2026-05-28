@@ -80,15 +80,17 @@ Customer-Segmentation-Clustering/
 
 ### Elbow Method
 
-(Add image here)
+ <img width="776" height="386" alt="image" src="https://github.com/user-attachments/assets/831d2a85-d504-4568-bacd-6b64a5eba59b" />
+
 
 ### PCA Cluster Visualization
+<img width="1185" height="613" alt="Screenshot 2026-05-16 040309" src="https://github.com/user-attachments/assets/5e7f3767-14e9-48d2-8d30-3b9772fd0f81" />
 
-(Add image here)
 
 ### Evaluation Metrics
 
-(Add image here)
+<img width="1407" height="634" alt="Screenshot 2026-05-15 220722" src="https://github.com/user-attachments/assets/ea0b40a9-5a8d-424c-b829-e9a32e6a0347" />
+
 
 ---
 
@@ -109,9 +111,10 @@ These insights can support strategic business decision-making and targeted marke
 
 ## Research Paper
 
-The academic paper for this project is included in the `/paper` directory.
+The academic paper for this project can be found here:
 
----
+[View Research Paper](Customer_Segmentation_Paper.pdf)
+
 
 ## Future Improvements
 
